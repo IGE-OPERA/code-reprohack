@@ -23,6 +23,8 @@ In the template below, reviewing criteria are ranked:
 
  - Commit being reviewed:
 
+ - Reviewers (name or Github handle):
+
  - Findability, accessibility, reusability
 
    * [ ] [L1] The repository is public
