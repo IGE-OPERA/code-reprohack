@@ -13,11 +13,12 @@ Do not create any issue or pull request in the repository being reviewed: the ta
 
  - Commit being reviewed:
 
- - Référencement, accessibilité, réutilisation
+ - Findability, accessibility, reusability
 
-   * [ ] [niveau 1] Le repo est public
-   * [ ] [niveau 1] Le repo est synchronisé sur Software Heritage
-   * [ ] [niveau 1] Une LICENSE est associée au logiciel
+   * [ ] [niveau 1] The repository is public
+   * [ ] [niveau 1] The repository is backed up on [Software Heritage](https://www.softwareheritage.org/)
+   * [ ] [niveau 1] The software has an explicit license
+   * [ ] [niveau 1] The license is listed as a free and open source software license by the [open source initiative](https://opensource.org/licenses) and/or the [GNU project](https://www.gnu.org/licenses/license-list.html).
 
  - README.md
 
